@@ -1,6 +1,6 @@
 ### Cyclistic 🚲
 
-A case study which examines user trends for a Chicago bike-share company.
+A case study which examines user experience trends for a Chicago bike-share company.
 
 I completed this project for the Google Data Analytics Certification course.
 
